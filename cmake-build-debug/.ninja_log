@@ -1,0 +1,5 @@
+# ninja log v6
+8	1185	7614721835826029	CMakeFiles/SDL_clion.dir/main.cpp.obj	f868eb81c6b2d7c7
+1185	1286	7614721847597199	SDL_clion.exe	ccdda9f80e60e724
+14	1157	7614721835885964	CMakeFiles/SDL_clion.dir/SDL_utils.cpp.obj	1df329b2eba96ce
+4	487	7614722771984195	build.ninja	19e71806ef0d59f8
